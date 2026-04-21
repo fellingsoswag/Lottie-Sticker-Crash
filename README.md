@@ -26,8 +26,8 @@ Envie uma imagem para o bot com uma das legendas abaixo para acionar os efeitos 
 *   **`!5` (Terremoto):** A imagem treme aleatoriamente e de forma agressiva pela tela.
 
 #### Figurinhas Extremos
-*   **`!shiinay`:** O clássico! Força as dimensões da figurinha Lottie (`9999x9999`) para que ela fique **gigante** e ocupe toda a tela do chat.
-*   **`!crash`:** O Incrível! Realiza um *stress test* no renderizador do WhatsApp (rlottie). Este comando gera uma figurinha com **100 níveis de hierarquia profunda** (camadas aninhadas). Isso força o motor de renderização do celular a calcular uma cascata massiva de matrizes, o que pode causar lag severo ou fazer com que o WhatsApp desative temporariamente a renderização de animações (Safe Mode) no dispositivo de quem visualizar.
+*   **`!shiinay`:** figurinha Lottie (`9999x9999`) para que ela fique **gigante** e ocupe toda a tela do chat.
+*   **`!crash`:** Realiza um *stress test* no renderizador do WhatsApp (rlottie). Este comando gera uma figurinha com **100 níveis de hierarquia profunda** (camadas aninhadas). Isso força o motor de renderização do celular a calcular uma cascata massiva de matrizes, o que pode causar lag severo ou fazer com que o WhatsApp desative temporariamente a renderização de animações (Safe Mode) no dispositivo de quem visualizar.
 
 ### 🚀 Como Executar
 
@@ -44,8 +44,8 @@ Envie uma imagem para o bot com uma das legendas abaixo para acionar os efeitos 
 
 ### 👤 Autor e Créditos
 
-*   **Desenvolvedor Principal:** Descubra mais projetos incríveis feitos por mim no meu portfólio: **[https://shiinay.is-a.dev](https://shiinay.is-a.dev)**
-*   **Base do Projeto:** Os créditos pela fundação e estrutura inicial do Lottie Extractor vão para o criador original do repositório base.
+*   **Desenvolvedor Principal:** Descubra mais projetos: **[https://shiinay.is-a.dev](https://shiinay.is-a.dev)**
+*   **Base do Projeto:** Os créditos pela fundação e estrutura inicial do Lottie Extractor vão para o criador original do repositório base: **[https://github.com/amis13/lottie_sticker_generator](https://github.com/amis13/lottie_sticker_generator)**
 
 ---
 
