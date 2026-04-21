@@ -4,7 +4,7 @@
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-Bot-25D366?style=for-the-badge&logo=whatsapp)
 ![NodeJS](https://img.shields.io/badge/Node.js-Bot-339933?style=for-the-badge&logo=nodedotjs)
 
-*Read this in [[English](#english-version)](https://github.com/fellingsoswag/Lottie-Sticker-Crash#-english-version) | Leia em [Português](#versão-em-português)*
+*Read this in [[English](#-english-version)]) | Leia em [Português](#versão-em-português)*
 
 ---
 
