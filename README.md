@@ -37,7 +37,7 @@ Envie uma imagem para o bot com uma das legendas abaixo para acionar os efeitos 
     ```
 2.  Inicie o bot:
     ```bash
-    npm start
+    node index.js
     ```
 3.  Escaneie o QR Code que aparecerá no terminal com o seu WhatsApp.
 4.  Envie uma imagem com um dos comandos acima para testar!
@@ -67,8 +67,8 @@ Send an image to the bot with one of the captions below to trigger the dynamic e
 *   **`!5` (Earthquake):** The image shakes randomly and aggressively across the screen.
 
 #### Extreme Stickers
-*   **`!shiinay`:** The classic! Forces the Lottie sticker dimensions (`9999x9999`) so it becomes **giant** and takes up the entire chat screen.
-*   **`!crash`:** The Incredible! Performs a *stress test* on the WhatsApp renderer (rlottie). This command generates a sticker with **100 levels of deep hierarchy** (nested layers). This forces the mobile rendering engine to calculate a massive cascade of matrices, which can cause severe lag or make WhatsApp temporarily disable animation rendering (Safe Mode) on the viewer's device.
+*   **`!shiinay`:** Forces the Lottie sticker dimensions (`9999x9999`) so it becomes **giant** and takes up the entire chat screen.
+*   **`!crash`:** Performs a *stress test* on the WhatsApp renderer (rlottie). This command generates a sticker with **100 levels of deep hierarchy** (nested layers). This forces the mobile rendering engine to calculate a massive cascade of matrices, which can cause severe lag or make WhatsApp temporarily disable animation rendering (Safe Mode) on the viewer's device.
 
 ### 🚀 How to Run
 
@@ -78,12 +78,12 @@ Send an image to the bot with one of the captions below to trigger the dynamic e
     ```
 2.  Start the bot:
     ```bash
-    npm start
+    node index.js
     ```
 3.  Scan the QR Code that appears in the terminal with your WhatsApp.
 4.  Send an image with one of the commands above to test!
 
 ### 👤 Author and Credits
 
-*   **Main Developer:** Discover more amazing projects made by me in my portfolio: **[https://shiinay.is-a.dev](https://shiinay.is-a.dev)**
-*   **Project Base:** Credits for the foundation and initial structure of the Lottie Extractor go to the original creator of the base repository.
+*   **Main Developer:** Discover more amazing projects made by me in my portfolio: **[https://shiinay.is-a.dev](https://shiinay.is-a.dev)** 
+*   **Project Base:** Credits for the foundation and initial structure of the Lottie Extractor go to the original creator of the base repository: **[https://github.com/amis13/lottie_sticker_generator](https://github.com/amis13/lottie_sticker_generator)**
