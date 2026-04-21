@@ -1,0 +1,19 @@
+# Dependencias
+node_modules/
+
+# Credenciales de sesión WhatsApp
+auth_info_baileys/
+
+# Sticker generado en runtime
+output_sticker.was
+
+# Builds / extracciones temporales
+temp_build/
+_frames/
+pack_chomp/
+
+# Referencia descargada del sticker oficial Chomp
+chomp_*
+
+# Backups locales de la plantilla
+backup_*/
